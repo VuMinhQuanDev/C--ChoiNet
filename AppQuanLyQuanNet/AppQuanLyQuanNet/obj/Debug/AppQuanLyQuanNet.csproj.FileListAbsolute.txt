@@ -1,0 +1,17 @@
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\bin\Debug\AppQuanLyQuanNet.exe.config
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\bin\Debug\AppQuanLyQuanNet.exe
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\bin\Debug\AppQuanLyQuanNet.pdb
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.csproj.AssemblyReference.cache
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.csproj.SuggestedBindingRedirects.cache
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.Home.resources
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.Properties.Resources.resources
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.csproj.GenerateResource.cache
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.csproj.CoreCompileInputs.cache
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.exe
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.pdb
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.frmOrder.resources
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.Option.resources
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.Order.resources
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.addMember.resources
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.addMemberTime.resources
+D:\BTL C#\AppQuanLyQuanNet\AppQuanLyQuanNet\obj\Debug\AppQuanLyQuanNet.Loginfrm.resources
